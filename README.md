@@ -6,4 +6,4 @@ Install Code by running:
 
     Clone or download
     Install Node JS, NPM: go to https://nodejs.org
-    Command at the path of folder having package.json: nodemon
+    Command at the path of a folder having package.json: nodemon
